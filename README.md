@@ -21,3 +21,7 @@ JavaScript (optional)
 JQuery (optional)
 AJAX (optional)
 --------------------------------------------------------------------------------------------------------------------------
+design elements:
+add company logo 
+add company colors
+add company title and slogan into jumbotron 
