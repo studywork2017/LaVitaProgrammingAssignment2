@@ -25,3 +25,9 @@ design elements:
 add company logo 
 add company colors
 add company title and slogan into jumbotron 
+
+
+add a data with a few products 
+add products with pics on products page
+add cart feature
+check site works. 
